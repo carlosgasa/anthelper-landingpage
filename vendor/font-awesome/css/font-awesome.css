@@ -2316,6 +2316,16 @@
 .fa-meetup:before {
   content: "\f2e0";
 }
+.fa-instagram:before {
+  content: "\f2e1";
+}
+.fa-instagram-f:before,
+.fa-instagram:before {
+  content: "\f2e2";
+}
+.fa-instagram-official:before {
+  content: "\f2e3";
+}
 .sr-only {
   position: absolute;
   width: 1px;
